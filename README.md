@@ -1,4 +1,4 @@
-# Prueba Técnica — Desarrollador Jr Flutter (Riverpod) + Angular
+#  Flutter (Riverpod) + Angular
 
 Repositorio monorepo que contiene la solución integral para la prueba técnica de **Desarrollador Jr Flutter (Riverpod) + Angular**, consumiendo la API pública de [DummyJSON](https://dummyjson.com).
 
